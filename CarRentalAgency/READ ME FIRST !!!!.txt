@@ -1,0 +1,27 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+USER    username :  /////Register then login
+        password :
+
+
+
+ADMIN   username:rahul
+        password:Rahul@12345   // if not login then u have check admin table username and password.
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "carrental" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING
